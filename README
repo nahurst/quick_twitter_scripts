@@ -1,0 +1,11 @@
+= Quick Twitter Scripts
+
+This is a collection of miscellaneous Twitter scripts that I've collected or use.
+
+== twitter_list_creator.rb
+
+Creates a Twitter list from a file of Twitter handles (one per line).
+
+== meetup_twitter_getter.rb
+
+Finds the Twitter handles of all the users of Meetup groups you specify.
