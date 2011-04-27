@@ -7,8 +7,8 @@
 require "rubygems"
 require "twitter"
 
-FILE_PATH = "/home/nhurst/workspace/meetup_twitter_getter/lists/nyc_meetups"
-LIST_NAME = "nyc-tech-meetups-2"
+FILE_PATH = ""
+LIST_NAME = ""
 TWITTER_LIST_MEMBERSHIP_RATE_LIMIT = 100
 
 Twitter.configure do |config|
